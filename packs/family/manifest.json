@@ -1,0 +1,37 @@
+{
+  "id": "family",
+  "name": "Family & Parenting Pack",
+  "version": "1.0.0",
+  "description": "Prompts for family activities, parenting ideas, and home life",
+  "author": "Ideator Community",
+  "categories": [
+    {
+      "id": "activities",
+      "name": "Family Activities",
+      "file": "activities.tsv",
+      "icon": "figure.2.and.child.holdinghands",
+      "color": "blue"
+    },
+    {
+      "id": "parenting",
+      "name": "Parenting Ideas",
+      "file": "parenting.tsv",
+      "icon": "heart.text.square.fill",
+      "color": "red"
+    },
+    {
+      "id": "traditions",
+      "name": "Family Traditions",
+      "file": "traditions.tsv",
+      "icon": "star.circle.fill",
+      "color": "yellow"
+    },
+    {
+      "id": "education",
+      "name": "Learning Together",
+      "file": "education.tsv",
+      "icon": "book.and.pencil",
+      "color": "green"
+    }
+  ]
+}

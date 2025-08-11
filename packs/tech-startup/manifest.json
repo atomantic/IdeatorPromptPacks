@@ -1,0 +1,44 @@
+{
+  "id": "tech-startup",
+  "name": "Tech Startup Pack",
+  "version": "1.0.0",
+  "description": "Prompts for entrepreneurs, product managers, and startup founders",
+  "author": "Ideator Community",
+  "categories": [
+    {
+      "id": "startup",
+      "name": "Startup Ideas",
+      "file": "startup.tsv",
+      "icon": "lightbulb.circle.fill",
+      "color": "yellow"
+    },
+    {
+      "id": "product",
+      "name": "Product Development",
+      "file": "product.tsv",
+      "icon": "cube.box.fill",
+      "color": "blue"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing & Growth",
+      "file": "marketing.tsv",
+      "icon": "megaphone.fill",
+      "color": "green"
+    },
+    {
+      "id": "funding",
+      "name": "Funding & Investment",
+      "file": "funding.tsv",
+      "icon": "dollarsign.circle.fill",
+      "color": "mint"
+    },
+    {
+      "id": "team",
+      "name": "Team Building",
+      "file": "team.tsv",
+      "icon": "person.3.fill",
+      "color": "purple"
+    }
+  ]
+}

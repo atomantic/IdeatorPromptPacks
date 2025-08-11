@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tech-startup",
+    "name": "Tech Startup Pack",
+    "version": "1.0.0",
+    "description": "Prompts for entrepreneurs, product managers, and startup founders",
+    "author": "Ideator Community",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
+    "size": 8192,
+    "promptCount": 50,
+    "categories": ["startup", "product", "marketing", "funding", "team"]
+  },
+  {
+    "id": "creative-writing",
+    "name": "Creative Writing Pack",
+    "version": "1.0.0",
+    "description": "Advanced prompts for writers, authors, and storytellers",
+    "author": "Ideator Community",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
+    "size": 8192,
+    "promptCount": 50,
+    "categories": ["characters", "plots", "worldbuilding", "dialogue", "genres"]
+  },
+  {
+    "id": "family",
+    "name": "Family & Parenting Pack",
+    "version": "1.0.0",
+    "description": "Prompts for family activities, parenting ideas, and home life",
+    "author": "Ideator Community",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
+    "size": 6144,
+    "promptCount": 40,
+    "categories": ["activities", "parenting", "traditions", "education"]
+  }
+]
