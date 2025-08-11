@@ -15,15 +15,14 @@ Each prompt pack consists of:
 
 ### TSV Format
 
-Each category TSV file has the following columns:
+Each category TSV file has a single column:
 - `text`: The prompt text
-- `tags`: Pipe-separated tags for categorization
 
 Example:
 ```tsv
-text	tags
-business ideas to explore	entrepreneurship|innovation|startup
-ways to improve my workspace	productivity|office|environment
+text
+business ideas to explore
+ways to improve my workspace
 ```
 
 ## Creating Your Own Pack
