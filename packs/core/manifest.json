@@ -9,7 +9,7 @@
       "id": "personalDevelopment",
       "name": "Personal Development",
       "file": "personalDevelopment.tsv",
-      "icon": "person.fill.checkmark",
+      "icon": "person.crop.circle.badge.checkmark",
       "color": "blue"
     },
     {
@@ -100,7 +100,7 @@
       "id": "gratitude",
       "name": "Gratitude",
       "file": "gratitude.tsv",
-      "icon": "hands.sparkles.fill",
+      "icon": "hands.sparkles",
       "color": "orange"
     }
   ]
