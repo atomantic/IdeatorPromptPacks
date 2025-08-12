@@ -84,6 +84,7 @@ We welcome contributions! Please follow these guidelines:
 - Tech Startup Pack
 - Creative Writing Pack
 - Family & Parenting Pack
+- Surreal Ideation Pack
 - And more coming soon!
 
 ## License
