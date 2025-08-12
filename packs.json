@@ -1,7 +1,7 @@
 [
   {
     "id": "tech-startup",
-    "name": "Tech Startup Pack",
+    "name": "Tech Startup",
     "version": "1.0.0",
     "description": "Prompts for entrepreneurs, product managers, and startup founders",
     "author": "Idea Loom Community",
@@ -12,7 +12,7 @@
   },
   {
     "id": "creative-writing",
-    "name": "Creative Writing Pack",
+    "name": "Creative Writing",
     "version": "1.1.1",
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom Community",
@@ -23,7 +23,7 @@
   },
   {
     "id": "family",
-    "name": "Family & Parenting Pack",
+    "name": "Family & Parenting",
     "version": "1.0.0",
     "description": "Prompts for family activities, parenting ideas, and home life",
     "author": "Idea Loom Community",
@@ -34,7 +34,7 @@
   },
   {
     "id": "disaster-prep",
-    "name": "Disaster Prep Pack",
+    "name": "Disaster Prep",
     "version": "1.0.0",
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom Community",
@@ -45,7 +45,7 @@
   },
   {
     "id": "surreal",
-    "name": "Surreal Ideation Pack",
+    "name": "Surreal Ideation",
     "version": "1.0.0",
     "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
     "author": "Idea Loom Community",
