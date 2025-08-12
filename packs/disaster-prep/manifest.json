@@ -1,16 +1,51 @@
 {
   "id": "disaster-prep",
   "name": "Disaster Prep Pack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Prompts for planning and preparing for emergencies and disasters",
   "author": "Idea Loom Community",
   "categories": [
     {
-      "id": "preparedness",
-      "name": "Preparedness",
-      "file": "preparedness.tsv",
-      "icon": "exclamationmark.triangle.fill",
+      "id": "riskScenarios",
+      "name": "Risk Scenarios",
+      "file": "riskScenarios.tsv",
+      "icon": "exclamationmark.octagon.fill",
       "color": "red"
+    },
+    {
+      "id": "emergencyActions",
+      "name": "Emergency Actions",
+      "file": "emergencyActions.tsv",
+      "icon": "bolt.fill",
+      "color": "orange"
+    },
+    {
+      "id": "survivalSupplies",
+      "name": "Survival Supplies",
+      "file": "survivalSupplies.tsv",
+      "icon": "backpack.fill",
+      "color": "green"
+    },
+    {
+      "id": "skillsTraining",
+      "name": "Skills & Training",
+      "file": "skillsTraining.tsv",
+      "icon": "graduationcap.fill",
+      "color": "blue"
+    },
+    {
+      "id": "communicationCoordination",
+      "name": "Communication & Coordination",
+      "file": "communicationCoordination.tsv",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "color": "purple"
+    },
+    {
+      "id": "recoveryRebuild",
+      "name": "Recovery & Rebuild",
+      "file": "recoveryRebuild.tsv",
+      "icon": "hammer.fill",
+      "color": "gray"
     }
   ]
 }

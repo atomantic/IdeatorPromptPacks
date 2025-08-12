@@ -7,7 +7,22 @@
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
     "promptCount": 151,
-    "categories": ["Personal Development", "Professional", "Creative", "Lifestyle", "Relationships", "Entertainment", "Travel & Adventure", "Learning & Skills", "Financial", "Social Impact", "Health & Fitness", "Mindfulness", "Self Care", "Gratitude"]
+    "categories": [
+      "Personal Development",
+      "Professional",
+      "Creative",
+      "Lifestyle",
+      "Relationships",
+      "Entertainment",
+      "Travel & Adventure",
+      "Learning & Skills",
+      "Financial",
+      "Social Impact",
+      "Health & Fitness",
+      "Mindfulness",
+      "Self Care",
+      "Gratitude"
+    ]
   },
   {
     "id": "tech-startup",
@@ -17,7 +32,13 @@
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
     "promptCount": 59,
-    "categories": ["startup", "product", "marketing", "funding", "team"]
+    "categories": [
+      "startup",
+      "product",
+      "marketing",
+      "funding",
+      "team"
+    ]
   },
   {
     "id": "creative-writing",
@@ -27,7 +48,14 @@
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
     "promptCount": 96,
-    "categories": ["characters", "writing", "plots", "worldbuilding", "dialogue", "genres"]
+    "categories": [
+      "characters",
+      "writing",
+      "plots",
+      "worldbuilding",
+      "dialogue",
+      "genres"
+    ]
   },
   {
     "id": "family",
@@ -37,17 +65,29 @@
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
     "promptCount": 57,
-    "categories": ["activities", "parenting", "traditions", "education"]
+    "categories": [
+      "activities",
+      "parenting",
+      "traditions",
+      "education"
+    ]
   },
   {
     "id": "disaster-prep",
     "name": "Disaster Prep",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
-    "promptCount": 10,
-    "categories": ["preparedness"]
+    "promptCount": 90,
+    "categories": [
+      "Risk Scenarios",
+      "Emergency Actions",
+      "Survival Supplies",
+      "Skills & Training",
+      "Communication & Coordination",
+      "Recovery & Rebuild"
+    ]
   },
   {
     "id": "surreal",
@@ -57,6 +97,12 @@
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
     "promptCount": 59,
-    "categories": ["absurd-inventions", "dream-logic", "alternate-realities", "unexpected-mashups", "alien-perspectives"]
+    "categories": [
+      "absurd-inventions",
+      "dream-logic",
+      "alternate-realities",
+      "unexpected-mashups",
+      "alien-perspectives"
+    ]
   }
 ]
