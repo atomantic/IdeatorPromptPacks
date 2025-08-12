@@ -13,13 +13,13 @@
   {
     "id": "creative-writing",
     "name": "Creative Writing Pack",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom Community",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
     "size": 8192,
-    "promptCount": 50,
-    "categories": ["characters", "plots", "worldbuilding", "dialogue", "genres"]
+    "promptCount": 85,
+    "categories": ["characters", "writing", "plots", "worldbuilding", "dialogue", "genres"]
   },
   {
     "id": "family",
