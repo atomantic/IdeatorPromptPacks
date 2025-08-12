@@ -42,5 +42,16 @@
     "size": 4096,
     "promptCount": 10,
     "categories": ["preparedness"]
+  },
+  {
+    "id": "surreal",
+    "name": "Surreal Ideation Pack",
+    "version": "1.0.0",
+    "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
+    "author": "Idea Loom Community",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
+    "size": 8192,
+    "promptCount": 50,
+    "categories": ["absurd-inventions", "dream-logic", "alternate-realities", "unexpected-mashups", "alien-perspectives"]
   }
 ]
