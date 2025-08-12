@@ -31,5 +31,16 @@
     "size": 6144,
     "promptCount": 40,
     "categories": ["activities", "parenting", "traditions", "education"]
+  },
+  {
+    "id": "disaster-prep",
+    "name": "Disaster Prep Pack",
+    "version": "1.0.0",
+    "description": "Prompts for planning and preparing for emergencies and disasters",
+    "author": "Idea Loom Community",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
+    "size": 4096,
+    "promptCount": 10,
+    "categories": ["preparedness"]
   }
 ]

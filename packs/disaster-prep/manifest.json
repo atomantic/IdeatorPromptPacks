@@ -1,0 +1,16 @@
+{
+  "id": "disaster-prep",
+  "name": "Disaster Prep Pack",
+  "version": "1.0.0",
+  "description": "Prompts for planning and preparing for emergencies and disasters",
+  "author": "Idea Loom Community",
+  "categories": [
+    {
+      "id": "preparedness",
+      "name": "Preparedness",
+      "file": "preparedness.tsv",
+      "icon": "exclamationmark.triangle.fill",
+      "color": "red"
+    }
+  ]
+}
