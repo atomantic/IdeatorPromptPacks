@@ -1,7 +1,7 @@
 {
   "id": "creative-writing",
   "name": "Creative Writing Pack",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Advanced prompts for writers, authors, and storytellers",
   "author": "Ideator Community",
   "categories": [
@@ -11,6 +11,13 @@
       "file": "characters.tsv",
       "icon": "person.crop.circle.fill",
       "color": "orange"
+    },
+    {
+      "id": "writing",
+      "name": "Writing Prompts",
+      "file": "writing.tsv",
+      "icon": "pencil",
+      "color": "yellow"
     },
     {
       "id": "plots",
