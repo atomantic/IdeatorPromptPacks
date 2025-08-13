@@ -1,10 +1,10 @@
-# Ideator Prompt Packs
+# Idea Loom Prompt Packs
 
-This repository hosts downloadable prompt packs for the [Ideator app](https://github.com/atomantic/Ideator) - a creative brainstorming iOS app that helps users generate ideas through guided prompts.
+This repository hosts downloadable prompt packs for the Idea Loom app - a creative brainstorming iOS app that helps users generate ideas through guided prompts.
 
 ## Available Packs
 
-Browse the `packs.json` file to see all available prompt packs that can be downloaded directly from within the Ideator app.
+Browse the `packs.json` file to see all available prompt packs that can be downloaded directly from within the Idea Loom app.
 
 ## Pack Structure
 
@@ -60,7 +60,6 @@ We welcome contributions! Please follow these guidelines:
 - Ensure prompts can be completed without external research
 - Focus on ideation and imagination rather than factual knowledge
 - Group related prompts into logical categories
-- Test your pack in the Ideator app before submitting
 
 ## Pack Categories
 
@@ -85,6 +84,7 @@ We welcome contributions! Please follow these guidelines:
 - Creative Writing Pack
 - Family & Parenting Pack
 - Surreal Ideation Pack
+- Disaster Prep
 - And more coming soon!
 
 ## License
@@ -94,4 +94,4 @@ All prompt packs in this repository are provided under the MIT License. Feel fre
 ## Support
 
 For issues or questions about prompt packs, please open an issue in this repository.
-For app-related issues, visit the [main Ideator repository](https://github.com/atomantic/Ideator).
+For app-related issues, visit the [main Idea Loom repository](https://github.com/atomantic/Idea Loom).

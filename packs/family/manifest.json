@@ -1,9 +1,9 @@
 {
   "id": "family",
-  "name": "Family & Parenting Pack",
+  "name": "Family & Parenting",
   "version": "1.0.0",
   "description": "Prompts for family activities, parenting ideas, and home life",
-  "author": "Ideator Community",
+  "author": "Idea Loom",
   "categories": [
     {
       "id": "activities",

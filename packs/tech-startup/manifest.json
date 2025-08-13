@@ -1,9 +1,9 @@
 {
   "id": "tech-startup",
-  "name": "Tech Startup Pack",
+  "name": "Tech Startup",
   "version": "1.0.0",
   "description": "Prompts for entrepreneurs, product managers, and startup founders",
-  "author": "Ideator Community",
+  "author": "Idea Loom",
   "categories": [
     {
       "id": "startup",
