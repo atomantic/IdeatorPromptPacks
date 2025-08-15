@@ -34,10 +34,11 @@ function getPackInfo(packDir) {
   }
   
   // Extract category names from manifest
-  const categories = manifest.categories ? 
-    manifest.categories.map(cat => cat.name || cat.id) : 
-    tsvFiles.map(file => path.basename(file, '.tsv'));
-  
+  const categories = (manifest.categories ?
+    manifest.categories.map(cat => cat.name || cat.id) :
+    tsvFiles.map(file => path.basename(file, '.tsv'))
+  ).sort((a, b) => a.localeCompare(b));
+
   return {
     id: manifest.id,
     name: manifest.name,
