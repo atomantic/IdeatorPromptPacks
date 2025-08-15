@@ -6,7 +6,7 @@
     "description": "Essential prompt categories for daily ideation including wellness and personal growth",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 169,
+    "promptCount": 175,
     "categories": [
       "Creative",
       "Entertainment",
@@ -31,7 +31,7 @@
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
-    "promptCount": 83,
+    "promptCount": 85,
     "categories": [
       "Character Development",
       "Dialogue & Scenes",
@@ -70,6 +70,18 @@
       "Family Traditions",
       "Learning Together",
       "Parenting Ideas"
+    ]
+  },
+  {
+    "id": "silly",
+    "name": "Silly",
+    "version": "1.0.0",
+    "description": "Playful prompts for outrageous and comedic ideation",
+    "author": "Idea Loom",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/silly/",
+    "promptCount": 20,
+    "categories": [
+      "Silly"
     ]
   },
   {
