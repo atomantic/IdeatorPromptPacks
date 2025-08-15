@@ -6,7 +6,7 @@
     "description": "Essential prompt categories for daily ideation including wellness and personal growth",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 175,
+    "promptCount": 178,
     "categories": [
       "Creative",
       "Entertainment",
@@ -48,7 +48,7 @@
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
-    "promptCount": 73,
+    "promptCount": 76,
     "categories": [
       "Communication & Coordination",
       "Emergency Actions",
