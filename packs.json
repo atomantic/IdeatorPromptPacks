@@ -2,7 +2,7 @@
   {
     "id": "core",
     "name": "Core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Essential prompt categories for daily ideation including wellness and personal growth",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
@@ -27,7 +27,7 @@
   {
     "id": "creative-writing",
     "name": "Creative Writing",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
@@ -44,7 +44,7 @@
   {
     "id": "disaster-prep",
     "name": "Disaster Prep",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
@@ -60,7 +60,7 @@
   {
     "id": "family",
     "name": "Family",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Prompts for family activities, parenting ideas, and home life",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
@@ -75,7 +75,7 @@
   {
     "id": "silly",
     "name": "Silly",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Playful prompts for outrageous and comedic ideation",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/silly/",
@@ -87,7 +87,7 @@
   {
     "id": "surreal",
     "name": "Surreal Ideation",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
@@ -103,7 +103,7 @@
   {
     "id": "tech-startup",
     "name": "Tech Startup",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Prompts for entrepreneurs, product managers, and startup founders",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
