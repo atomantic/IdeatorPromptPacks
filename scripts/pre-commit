@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Git pre-commit hook for IdeatorPromptPacks
+# Normalizes TSVs and ensures packs.json is up to date.
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+"$SCRIPT_DIR/../tools/verify-build.sh"
+

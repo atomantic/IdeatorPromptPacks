@@ -70,6 +70,23 @@ We welcome contributions! Please follow these guidelines:
 - Focus on ideation and imagination rather than factual knowledge
 - Group related prompts into logical categories
 
+Formatting and validation:
+- Run `node build.js` before committing. It will:
+  - Capitalize the first letter of each prompt text
+  - Ensure TSV rows are `text` or `text\thelp` only
+  - Recover lines where help was added without a tab (e.g., `Title (hint)`)
+  - Alphabetize rows by the `text` column
+  - Regenerate `packs.json`
+- CI runs the same checks and will fail if `build.js` would change files.
+
+Optional pre-commit hook:
+- Install the local git hook to enforce normalization automatically:
+  ```bash
+  chmod +x scripts/pre-commit tools/verify-build.sh
+  ln -sf "$(pwd)/scripts/pre-commit" .git/hooks/pre-commit
+  ```
+  Now commits will abort if you forget to run the build.
+
 ## Pack Categories
 
 ### Core Pack (Built-in)

@@ -1,0 +1,31 @@
+name: Validate Prompt Packs
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Normalize and build packs
+        run: node build.js
+
+      - name: Ensure no uncommitted changes (run build.js locally)
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::build.js produced changes. Please run 'node build.js' locally and commit the results.";
+            git --no-pager diff --stat
+            exit 1
+          fi
+
