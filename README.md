@@ -15,14 +15,23 @@ Each prompt pack consists of:
 
 ### TSV Format
 
-Each category TSV file has a single column:
-- `text`: The prompt text
+Schema v1 (current on `main`):
+- Columns: `text` (prompt text)
 
-Example:
+Schema v2+ (staged on `main` when introduced):
+- Columns: `text`, `help` (optional short hint shown in app)
+
+Example (v1):
 ```tsv
 text
 business ideas to explore
 ways to improve my workspace
+```
+
+Example (v2):
+```tsv
+text	help
+business ideas to explore	(person + pain + promise)
 ```
 
 ## Creating Your Own Pack
@@ -94,4 +103,17 @@ All prompt packs in this repository are provided under the MIT License. Feel fre
 ## Support
 
 For issues or questions about prompt packs, please open an issue in this repository.
-For app-related issues, visit the [main Idea Loom repository](https://github.com/atomantic/Idea Loom).
+For app-related issues, visit the main app repository.
+
+## Versioning and Schema Policy
+
+- The root `schema.json` declares the current major schema version used on `main` (e.g., `{ "schemaMajor": 1 }`).
+- App releases are tagged in this repo as `vX.Y.Z` (matching the App Store version).
+- `main` can introduce breaking schema changes at any time. When that happens:
+  1. Tag the repo with the current store version `vX.Y.Z` so older apps have a stable snapshot.
+  2. Bump `schemaMajor` in `schema.json` on `main`.
+  3. Land breaking changes on `main`.
+- Ideator app behavior:
+  - If `schemaMajor` on `main` is greater than the app’s supported schema, the app fetches packs from the matching tag `vX.Y.Z`.
+  - Otherwise, the app uses `main`.
+  - If a fetch from a tag fails (e.g., tag not present), the app falls back to `main`.
