@@ -6,7 +6,7 @@
     "description": "Essential prompt categories for daily ideation including wellness and personal growth",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 178,
+    "promptCount": 192,
     "categories": [
       "Creative",
       "Entertainment",
@@ -31,7 +31,7 @@
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
-    "promptCount": 85,
+    "promptCount": 88,
     "categories": [
       "Character Development",
       "Dialogue & Scenes",
@@ -79,7 +79,7 @@
     "description": "Playful prompts for outrageous and comedic ideation",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/silly/",
-    "promptCount": 20,
+    "promptCount": 27,
     "categories": [
       "Silly"
     ]
@@ -91,7 +91,7 @@
     "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
-    "promptCount": 51,
+    "promptCount": 65,
     "categories": [
       "Absurd Inventions",
       "Alien Perspectives",
