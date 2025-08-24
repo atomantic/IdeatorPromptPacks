@@ -2,6 +2,8 @@
 
 This repository hosts downloadable prompt packs for the Idea Loom app - a creative brainstorming iOS app that helps users generate ideas through guided prompts.
 
+Prompts are topical ideas themselves that spark brainstorming inspiration to the end user. A good list topic is a non-specific idea of things that a person can think of without having to do online research--we are trying to improve brainstorming and ideation, not googling :) so rather than a list prompt like "names of state capitals", a good list prompt is something like "places I'd like to visit." This makes the prompt personal and allows creative/fictional places to be listed like Hogwarts or the Starship Enterprise.
+
 ## Available Packs
 
 Browse the `packs.json` file to see all available prompt packs that can be downloaded directly from within the Idea Loom app.

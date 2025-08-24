@@ -2,11 +2,11 @@
   {
     "id": "core",
     "name": "Core",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Essential prompt categories for daily ideation including wellness and personal growth",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 215,
+    "promptCount": 317,
     "categories": [
       "Creative",
       "Entertainment",
@@ -27,11 +27,11 @@
   {
     "id": "creative-writing",
     "name": "Creative Writing",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
-    "promptCount": 88,
+    "promptCount": 236,
     "categories": [
       "Character Development",
       "Dialogue & Scenes",
@@ -44,11 +44,11 @@
   {
     "id": "disaster-prep",
     "name": "Disaster Prep",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
-    "promptCount": 76,
+    "promptCount": 132,
     "categories": [
       "Communication & Coordination",
       "Emergency Actions",
@@ -60,11 +60,11 @@
   {
     "id": "family",
     "name": "Family",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Prompts for family activities, parenting ideas, and home life",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
-    "promptCount": 50,
+    "promptCount": 66,
     "categories": [
       "Family Activities",
       "Family Traditions",
@@ -75,11 +75,11 @@
   {
     "id": "silly",
     "name": "Silly",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Playful prompts for outrageous and comedic ideation",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/silly/",
-    "promptCount": 50,
+    "promptCount": 73,
     "categories": [
       "Silly"
     ]
@@ -87,11 +87,11 @@
   {
     "id": "surreal",
     "name": "Surreal Ideation",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
-    "promptCount": 65,
+    "promptCount": 84,
     "categories": [
       "Absurd Inventions",
       "Alien Perspectives",
@@ -103,11 +103,11 @@
   {
     "id": "tech-startup",
     "name": "Tech Startup",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Prompts for entrepreneurs, product managers, and startup founders",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
-    "promptCount": 50,
+    "promptCount": 74,
     "categories": [
       "Funding & Investment",
       "Marketing & Growth",

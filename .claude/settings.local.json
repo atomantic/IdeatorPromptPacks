@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(chmod:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(./init)",
+      "Read(//Users/antic/Library/Mobile Documents/com~apple~CloudDocs/AppDev/**)"
     ],
     "deny": [],
     "ask": []
