@@ -4,7 +4,8 @@
       "Bash(chmod:*)",
       "Bash(node:*)",
       "Bash(./init)",
-      "Read(//Users/antic/Library/Mobile Documents/com~apple~CloudDocs/AppDev/**)"
+      "Read(//Users/antic/Library/Mobile Documents/com~apple~CloudDocs/AppDev/**)",
+      "Bash(git tag:*)"
     ],
     "deny": [],
     "ask": []
