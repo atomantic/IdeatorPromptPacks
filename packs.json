@@ -60,11 +60,11 @@
   {
     "id": "family",
     "name": "Family",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Prompts for family activities, parenting ideas, and home life",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
-    "promptCount": 66,
+    "promptCount": 69,
     "categories": [
       "Family Activities",
       "Family Traditions",
