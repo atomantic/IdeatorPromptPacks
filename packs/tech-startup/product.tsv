@@ -1,11 +1,11 @@
-text	help
-Features our MVP must have	(one daily use case)
-Feedback questions to ask beta users	(one pain, one wish, one wow)
-Integration possibilities with other tools	(where data should flow)
-Metrics we should track	(e.g., activation)
-Potential pivot ideas if this doesn't work	(who else needs this?)
-Pricing strategies to consider	(tiers by value)
-User personas for our product	(job‑to‑be‑done + context)
-Ways to differentiate from competitors	(do what they won’t)
-Ways to simplify the user experience	(remove a step)
-Ways to validate this idea quickly	(painted door or concierge)
+text	help	slug
+Features our MVP must have	(one daily use case)	features-our-mvp-must-have
+Feedback questions to ask beta users	(one pain, one wish, one wow)	feedback-questions-to-ask-beta-users
+Integration possibilities with other tools	(where data should flow)	integration-possibilities-with-other-tools
+Metrics we should track	(e.g., activation)	metrics-we-should-track
+Potential pivot ideas if this doesn't work	(who else needs this?)	potential-pivot-ideas-if-this-doesnt-work
+Pricing strategies to consider	(tiers by value)	pricing-strategies-to-consider
+User personas for our product	(job‑to‑be‑done + context)	user-personas-for-our-product
+Ways to differentiate from competitors	(do what they won’t)	ways-to-differentiate-from-competitors
+Ways to simplify the user experience	(remove a step)	ways-to-simplify-the-user-experience
+Ways to validate this idea quickly	(painted door or concierge)	ways-to-validate-this-idea-quickly

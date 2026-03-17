@@ -1,11 +1,11 @@
-text	help
-Benefits to offer employees	(health, time, growth)
-Company culture values to establish	(decisions say yes/no by them)
-Interview questions to ask candidates	(past behavior > hypotheticals)
-Remote work policies to implement	(async first + overlap hours)
-Roles we need to hire for	(map to impact this quarter)
-Skills gaps in our team	(map gaps to goals)
-Team building activities to try	(shared creation)
-Types of advisors we need	(domain, GTM, hiring)
-Ways to improve team communication	(rituals + tooling)
-Ways to recognize team achievements	(public shout + reward)
+text	help	slug
+Benefits to offer employees	(health, time, growth)	benefits-to-offer-employees
+Company culture values to establish	(decisions say yes/no by them)	company-culture-values-to-establish
+Interview questions to ask candidates	(past behavior > hypotheticals)	interview-questions-to-ask-candidates
+Remote work policies to implement	(async first + overlap hours)	remote-work-policies-to-implement
+Roles we need to hire for	(map to impact this quarter)	roles-we-need-to-hire-for
+Skills gaps in our team	(map gaps to goals)	skills-gaps-in-our-team
+Team building activities to try	(shared creation)	team-building-activities-to-try
+Types of advisors we need	(domain, GTM, hiring)	types-of-advisors-we-need
+Ways to improve team communication	(rituals + tooling)	ways-to-improve-team-communication
+Ways to recognize team achievements	(public shout + reward)	ways-to-recognize-team-achievements
