@@ -1,10 +1,17 @@
 {
   "id": "tech-startup",
-  "name": "Tech Startup",
-  "version": "1.3.0",
-  "description": "Prompts for entrepreneurs, product managers, and startup founders",
+  "name": "Career & Startup",
+  "version": "1.4.0",
+  "description": "Prompts for career growth, entrepreneurs, and startup founders",
   "author": "Idea Loom",
   "categories": [
+    {
+      "id": "professional",
+      "name": "Professional",
+      "file": "professional.tsv",
+      "icon": "briefcase.fill",
+      "color": "purple"
+    },
     {
       "id": "startup",
       "name": "Startup Ideas",

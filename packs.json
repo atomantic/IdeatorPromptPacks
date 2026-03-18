@@ -2,26 +2,18 @@
   {
     "id": "core",
     "name": "Core",
-    "version": "1.2.0",
-    "description": "Essential prompt categories for daily ideation including wellness and personal growth",
+    "version": "2.0.0",
+    "description": "Essential prompt categories for daily creative ideation",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 317,
+    "promptCount": 163,
     "categories": [
-      "Creative",
-      "Entertainment",
-      "Financial",
-      "Future",
-      "Gratitude",
-      "Health & Fitness",
-      "Lifestyle",
-      "Mindfulness",
       "Personal Development",
-      "Professional",
-      "Relationships",
-      "Self Care",
-      "Social Impact",
-      "Travel & Adventure"
+      "Creative",
+      "Lifestyle",
+      "Entertainment",
+      "Gratitude",
+      "Future"
     ]
   },
   {
@@ -59,17 +51,31 @@
   },
   {
     "id": "family",
-    "name": "Family",
-    "version": "1.2.1",
-    "description": "Prompts for family activities, parenting ideas, and home life",
+    "name": "Family & Relationships",
+    "version": "1.4.0",
+    "description": "Prompts for family activities, parenting, and relationships",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
-    "promptCount": 69,
+    "promptCount": 92,
     "categories": [
       "Family Activities",
       "Family Traditions",
       "Learning Together",
-      "Parenting Ideas"
+      "Parenting Ideas",
+      "Relationships"
+    ]
+  },
+  {
+    "id": "impact-finance",
+    "name": "Impact & Finance",
+    "version": "1.3.0",
+    "description": "Prompts for social impact, world change, and financial thinking",
+    "author": "Idea Loom",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/impact-finance/",
+    "promptCount": 40,
+    "categories": [
+      "Social Impact",
+      "Financial"
     ]
   },
   {
@@ -102,18 +108,33 @@
   },
   {
     "id": "tech-startup",
-    "name": "Tech Startup",
-    "version": "1.2.0",
-    "description": "Prompts for entrepreneurs, product managers, and startup founders",
+    "name": "Career & Startup",
+    "version": "1.4.0",
+    "description": "Prompts for career growth, entrepreneurs, and startup founders",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
-    "promptCount": 74,
+    "promptCount": 98,
     "categories": [
+      "Professional",
       "Funding & Investment",
       "Marketing & Growth",
       "Product Development",
       "Startup Ideas",
       "Team Building"
+    ]
+  },
+  {
+    "id": "wellness",
+    "name": "Wellness",
+    "version": "1.3.0",
+    "description": "Prompts for health, mindfulness, and self-care",
+    "author": "Idea Loom",
+    "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/wellness/",
+    "promptCount": 44,
+    "categories": [
+      "Health & Fitness",
+      "Mindfulness",
+      "Self Care"
     ]
   }
 ]

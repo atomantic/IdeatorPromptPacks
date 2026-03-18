@@ -1,8 +1,8 @@
 {
   "id": "family",
-  "name": "Family",
-  "version": "1.3.0",
-  "description": "Prompts for family activities, parenting ideas, and home life",
+  "name": "Family & Relationships",
+  "version": "1.4.0",
+  "description": "Prompts for family activities, parenting, and relationships",
   "author": "Idea Loom",
   "categories": [
     {
@@ -32,6 +32,13 @@
       "file": "education.tsv",
       "icon": "book.fill",
       "color": "green"
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "file": "relationships.tsv",
+      "icon": "person.2.fill",
+      "color": "red"
     }
   ]
 }
