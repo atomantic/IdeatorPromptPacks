@@ -2,24 +2,25 @@
   {
     "id": "core",
     "name": "Core",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Essential prompt categories for daily creative ideation",
     "author": "Idea Loom Team",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/core/",
-    "promptCount": 163,
+    "promptCount": 232,
     "categories": [
-      "Personal Development",
       "Creative",
-      "Lifestyle",
       "Entertainment",
+      "Future",
       "Gratitude",
-      "Future"
+      "Lifestyle",
+      "Personal Development",
+      "Travel & Adventure"
     ]
   },
   {
     "id": "creative-writing",
     "name": "Creative Writing",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "Advanced prompts for writers, authors, and storytellers",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/creative-writing/",
@@ -36,7 +37,7 @@
   {
     "id": "disaster-prep",
     "name": "Disaster Prep",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "Prompts for planning and preparing for emergencies and disasters",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/disaster-prep/",
@@ -52,11 +53,11 @@
   {
     "id": "family",
     "name": "Family & Relationships",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "description": "Prompts for family activities, parenting, and relationships",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/family/",
-    "promptCount": 92,
+    "promptCount": 111,
     "categories": [
       "Family Activities",
       "Family Traditions",
@@ -68,24 +69,24 @@
   {
     "id": "impact-finance",
     "name": "Impact & Finance",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "Prompts for social impact, world change, and financial thinking",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/impact-finance/",
-    "promptCount": 40,
+    "promptCount": 51,
     "categories": [
-      "Social Impact",
-      "Financial"
+      "Financial",
+      "Social Impact"
     ]
   },
   {
     "id": "silly",
     "name": "Silly",
-    "version": "1.2.1",
+    "version": "1.4.0",
     "description": "Playful prompts for outrageous and comedic ideation",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/silly/",
-    "promptCount": 489,
+    "promptCount": 491,
     "categories": [
       "Silly"
     ]
@@ -93,11 +94,11 @@
   {
     "id": "surreal",
     "name": "Surreal Ideation",
-    "version": "1.2.0",
+    "version": "1.4.0",
     "description": "Off-the-wall prompts to spark bizarre, inventive thinking",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/surreal/",
-    "promptCount": 84,
+    "promptCount": 105,
     "categories": [
       "Absurd Inventions",
       "Alien Perspectives",
@@ -109,16 +110,16 @@
   {
     "id": "tech-startup",
     "name": "Career & Startup",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "description": "Prompts for career growth, entrepreneurs, and startup founders",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/tech-startup/",
-    "promptCount": 98,
+    "promptCount": 118,
     "categories": [
-      "Professional",
       "Funding & Investment",
       "Marketing & Growth",
       "Product Development",
+      "Professional",
       "Startup Ideas",
       "Team Building"
     ]
@@ -126,11 +127,11 @@
   {
     "id": "wellness",
     "name": "Wellness",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "Prompts for health, mindfulness, and self-care",
     "author": "Idea Loom",
     "downloadUrl": "https://raw.githubusercontent.com/atomantic/IdeatorPromptPacks/main/packs/wellness/",
-    "promptCount": 44,
+    "promptCount": 62,
     "categories": [
       "Health & Fitness",
       "Mindfulness",
